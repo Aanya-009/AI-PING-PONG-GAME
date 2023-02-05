@@ -1,0 +1,20 @@
+body
+{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin: 0;
+    float: left;
+}
+
+.heading button{
+    float: right;
+}
+
+#startGame, #status{
+    font-size: 19px;
+    border-radius: 17px;
+}
